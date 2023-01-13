@@ -1,4 +1,4 @@
-# Evenet-Management
+# Event-Management
 
 # API Deatils
 
